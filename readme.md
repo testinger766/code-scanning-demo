@@ -3,7 +3,7 @@
 A repository that builds a simple, insecure webpage to demo the power of code scanning.
 
 > [!IMPORTANT]
-> The code in this repository includes a security vulnerability, and should only be used to complete the exercises in [Finding and fixing vulnerabilities in your code](https://docs.github.com/en/get-started/learning-to-code/finding-and-fixing-vulnerabilities-in-your-code).
+> The code in this repository includes a security vulnerability, and should only be used to complete the exercises in [Finding and fixing your first code vulnerability](https://docs.github.com/get-started/learning-to-code/finding-and-fixing-your-first-code-vulnerability).
 
 ## Setup and run
 
